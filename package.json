@@ -1,0 +1,30 @@
+{
+  "name": "pizza-bakers-math",
+  "version": "1.0.0",
+  "description": "Zero-dependency JavaScript engine for baker's percentages, dough hydration, and pizza geometry scaling. Powered by PizzaMate.club.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek1998-cpu/pizza-bakers-math.git"
+  },
+  "keywords": [
+    "pizza",
+    "bakers-percentage",
+    "dough-calculator",
+    "hydration-calculator",
+    "culinary-math",
+    "fermentation",
+    "pizza-math",
+    "pizzamate"
+  ],
+  "author": "Abhishek Verma <support@pizzamate.club> (https://pizzamate.club)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abhishek1998-cpu/pizza-bakers-math/issues"
+  },
+  "homepage": "https://pizzamate.club"
+}
