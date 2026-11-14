@@ -165,10 +165,21 @@ node test.js
 
 ---
 
+## ℹ️ Project Stewardship & Inquiries
+
+> **Note on Project Maintenance:**  
+> This open-source repository is maintained on GitHub as an educational community distribution mirror for the culinary algorithms powering **[PizzaMate.club](https://pizzamate.club)**.  
+> 
+> The GitHub profile host acts solely as an open-source technical distributor and mirror maintainer. The project, roadmap, and culinary research are owned and developed by the **PizzaMate Culinary Engineering Team**.  
+> 
+> For feature requests, commercial licensing, future roadmap inquiries, or partnerships, please contact the core PizzaMate team directly via **[pizzamate.club](https://pizzamate.club)** or email **`support@pizzamate.club`**. Please do not direct product roadmap or vision inquiries to individual GitHub account profiles.
+
+---
+
 ## 🤝 Contributing & License
 
-Pull requests, food science formula corrections, and additional baking conversions are welcome!
+Pull requests, food science formula corrections, and additional conversions are welcome via GitHub PRs.
 
 Licensed under the [MIT License](LICENSE).
 
-Developed with ❤️ for the global pizza community by **[PizzaMate.club](https://pizzamate.club)**.
+Developed by the **[PizzaMate.club](https://pizzamate.club)** team.

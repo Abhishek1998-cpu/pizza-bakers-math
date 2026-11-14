@@ -21,7 +21,14 @@
     "pizza-math",
     "pizzamate"
   ],
-  "author": "Abhishek Verma <support@pizzamate.club> (https://pizzamate.club)",
+  "author": "PizzaMate Open Source Initiative <support@pizzamate.club> (https://pizzamate.club)",
+  "maintainers": [
+    {
+      "name": "PizzaMate Culinary Engineering Team",
+      "email": "support@pizzamate.club",
+      "url": "https://pizzamate.club"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Abhishek1998-cpu/pizza-bakers-math/issues"
